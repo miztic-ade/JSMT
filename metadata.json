@@ -1,0 +1,8 @@
+{
+  "name": "Remix Jaroy School of Management and Technology - Portal",
+  "description": "Comprehensive School Management System for Jaroy School of Management and Technology in Abeokuta, Ogun State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
